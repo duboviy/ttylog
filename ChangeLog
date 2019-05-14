@@ -1,8 +1,11 @@
+2019-5-8    Eugene Duboviy <eugene.dubovoy@gmail.com> 0.32
+
+     * Add 921600 baudrate
 
 2018-1-14   Robert James Clay <jame@rocasa.us>  0.31
 
     * README.md: Use single quotes around 'kill -HUP nnnn' example.
-    * README.md, ttylog.c: Add missing '[-s|--stamp]' entry for the Usage line. 
+    * README.md, ttylog.c: Add missing '[-s|--stamp]' entry for the Usage line.
     * COPYRIGHT, ttylog.c: Add copyright information for Guy Shapiro.
     * CMakeLists.txt: Change the minimum required version of CMake to '2.8'.
     * CMakeLists.txt: Add settings for two very basic tests to CMakeLists.txt.
@@ -83,7 +86,7 @@
 
 2016-5-25  Alexander (MrMontag) Fust <alexander.fust.info@gmail.com>  0.27
 
-    * CMakeList.txt: Finalize and activate the CPack directives 
+    * CMakeList.txt: Finalize and activate the CPack directives
 
 
 2016-5-13  Robert James Clay <jame@rocasa.us>
@@ -224,7 +227,7 @@
 
 2002-01-12  Tibor Koleszar <oldw@debian.org>  0.1.b-2
 
-    * Its not a debian native package - Closes: Debian bug#127498 
+    * Its not a debian native package - Closes: Debian bug#127498
 
 
 2002-01-12  Tibor Koleszar <oldw@debian.org>  0.1.b-1
